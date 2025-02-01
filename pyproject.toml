@@ -1,0 +1,22 @@
+[project]
+name = "wegene-assistant"
+version = "0.1.0"
+description = "MCP server for WeGene Assistant, using LLM to analyze a user's WeGene genetic testing report."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+ "flask>=3.1.0",
+ "httpx>=0.28.1",
+ "mcp>=1.2.0",
+ "oauthlib>=3.2.2",
+ "python-dotenv>=1.0.1",
+ "redislite>=6.2.912183",
+ "requests>=2.32.3",
+]
+
+[build-system]
+requires = [ "hatchling",]
+build-backend = "hatchling.build"
+
+[project.scripts]
+wegene-assistant = "wegene_assistant:main"

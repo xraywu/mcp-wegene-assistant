@@ -1,0 +1,1919 @@
+[
+    {
+        "category": "健康风险",
+        "report_id": "38",
+        "report_name": "迟发型阿兹海默病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "39",
+        "report_name": "心房纤维性颤动",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "40",
+        "report_name": "前列腺癌",
+        "report_gender_category": "男",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "42",
+        "report_name": "老年性黄斑病变",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "44",
+        "report_name": "结直肠癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "46",
+        "report_name": "睡眠脚动症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "47",
+        "report_name": "帕金森",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "48",
+        "report_name": "食管癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "49",
+        "report_name": "胃癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "50",
+        "report_name": "原发性胆汁性胆管炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "51",
+        "report_name": "硬皮病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "52",
+        "report_name": "酒精依赖",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "53",
+        "report_name": "哮喘",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "54",
+        "report_name": "大脑动脉瘤",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "56",
+        "report_name": "白癜风",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "57",
+        "report_name": "过敏性鼻炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "58",
+        "report_name": "瘢痕瘤",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "59",
+        "report_name": "肾脏病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "60",
+        "report_name": "肌萎缩侧索硬化症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "61",
+        "report_name": "男性不育症",
+        "report_gender_category": "男",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "62",
+        "report_name": "脑膜瘤",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "63",
+        "report_name": "鼻咽癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "64",
+        "report_name": "变形性骨炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "65",
+        "report_name": "干燥综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "66",
+        "report_name": "2型糖尿病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "67",
+        "report_name": "剥脱性青光眼",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "68",
+        "report_name": "黑色素瘤",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "69",
+        "report_name": "多发性硬化",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "70",
+        "report_name": "1型糖尿病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "71",
+        "report_name": "贝赫切特综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "72",
+        "report_name": "慢性阻塞性肺疾病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "73",
+        "report_name": "滤泡性淋巴瘤",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "74",
+        "report_name": "肾癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "75",
+        "report_name": "肾结石",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "76",
+        "report_name": "成神经细胞瘤",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "77",
+        "report_name": "尼古丁依赖",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "79",
+        "report_name": "胰腺癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "80",
+        "report_name": "外周动脉病变",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "81",
+        "report_name": "特发性肺纤维化",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "82",
+        "report_name": "睾丸癌",
+        "report_gender_category": "男",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "83",
+        "report_name": "甲状腺癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "84",
+        "report_name": "迟发性运动障碍",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "85",
+        "report_name": "强迫症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "86",
+        "report_name": "肥胖症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "87",
+        "report_name": "冠心病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "88",
+        "report_name": "痛风",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "89",
+        "report_name": "静脉血栓栓塞",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "90",
+        "report_name": "银屑病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "91",
+        "report_name": "肺癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "92",
+        "report_name": "胆结石",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "93",
+        "report_name": "类风湿关节炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "94",
+        "report_name": "溃疡性结肠炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "95",
+        "report_name": "克罗恩病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "96",
+        "report_name": "双相型障碍",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "97",
+        "report_name": "乳腺癌",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "98",
+        "report_name": "系统性红斑狼疮",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "99",
+        "report_name": "斑秃",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "100",
+        "report_name": "强直性脊柱炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "101",
+        "report_name": "特应性皮炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "102",
+        "report_name": "慢性淋巴细胞白血病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "103",
+        "report_name": "掌腱膜挛缩症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "104",
+        "report_name": "高血压",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "106",
+        "report_name": "甲状腺机能减退症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "107",
+        "report_name": "偏头痛",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "108",
+        "report_name": "进行性核上麻痹",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "109",
+        "report_name": "腹主动脉瘤",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "113",
+        "report_name": "男性乳腺癌",
+        "report_gender_category": "男",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "114",
+        "report_name": "发作性嗜睡病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "116",
+        "report_name": "骨关节炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "117",
+        "report_name": "结节病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "119",
+        "report_name": "脊柱侧凸",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "120",
+        "report_name": "选择性IgA缺陷",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "121",
+        "report_name": "脑中风",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "123",
+        "report_name": "子宫内膜异位",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "124",
+        "report_name": "妊娠糖尿病",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "125",
+        "report_name": "卵巢癌",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "126",
+        "report_name": "多囊卵巢综合征",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "127",
+        "report_name": "子宫肌瘤",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "128",
+        "report_name": "注意力缺陷多动障碍",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "129",
+        "report_name": "背痛",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "130",
+        "report_name": "唇裂和腭裂",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "131",
+        "report_name": "发育性阅读障碍",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "132",
+        "report_name": "特发性震颤",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "133",
+        "report_name": "桥本氏甲状腺炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "134",
+        "report_name": "高甘油三酯血症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "135",
+        "report_name": "骨髓增生性肿瘤",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "136",
+        "report_name": "非酒精性脂肪性肝病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "137",
+        "report_name": "神经管畸形",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "138",
+        "report_name": "胎盘早剥",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "139",
+        "report_name": "先兆子痫",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "141",
+        "report_name": "妊娠肝内胆汁淤积症",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "216",
+        "report_name": "心源性猝死",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "242",
+        "report_name": "抑郁症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "243",
+        "report_name": "精神分裂症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1483",
+        "report_name": "乳糜泻",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1485",
+        "report_name": "耳硬化症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1521",
+        "report_name": "过敏性疾病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1545",
+        "report_name": "妊娠剧吐",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1546",
+        "report_name": "原发性开角型青光眼",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1547",
+        "report_name": "牙龈炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1548",
+        "report_name": "口腔溃疡",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1549",
+        "report_name": "牙周炎",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1550",
+        "report_name": "牙齿发育迟缓",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1551",
+        "report_name": "下颌突出",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1552",
+        "report_name": "龋齿",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1553",
+        "report_name": "子宫内膜癌",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1554",
+        "report_name": "骨质疏松",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1555",
+        "report_name": "憩室病",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1585",
+        "report_name": "男性型脱发",
+        "report_gender_category": "男",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1586",
+        "report_name": "肺结核",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1587",
+        "report_name": "自闭症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1645",
+        "report_name": "宫颈癌",
+        "report_gender_category": "女",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1646",
+        "report_name": "肝癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1647",
+        "report_name": "酒精性脂肪肝",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1648",
+        "report_name": "口腔癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1649",
+        "report_name": "喉癌",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "健康风险",
+        "report_id": "1650",
+        "report_name": "腰椎间盘突出症",
+        "report_gender_category": "全部",
+        "report_endpoint": "risk"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "1",
+        "report_name": "酒精性脸红",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "2",
+        "report_name": "苦味敏感度",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "3",
+        "report_name": "耳垢类型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "12",
+        "report_name": "吸烟倾向",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "17",
+        "report_name": "血糖水平",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "31",
+        "report_name": "更年期",
+        "report_gender_category": "女",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "34",
+        "report_name": "见光喷嚏",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "43",
+        "report_name": "吃货评价",
+        "report_gender_category": "女",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "170",
+        "report_name": "避错倾向",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "244",
+        "report_name": "绝对音准",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "262",
+        "report_name": "ABO 血型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "348",
+        "report_name": "APOE分型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传特征",
+        "report_id": "1440",
+        "report_name": "深度睡眠",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/traits"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "171",
+        "report_name": "遗传性痉挛性共济失调",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "172",
+        "report_name": "胼胝体伴周围神经发育不全",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "173",
+        "report_name": "α-1抗胰蛋白酶缺乏",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "174",
+        "report_name": "常染色体隐性遗传性多囊肾病",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "175",
+        "report_name": "地中海贫血",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "176",
+        "report_name": "布卢姆综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "177",
+        "report_name": "卡纳万病",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "178",
+        "report_name": "先天性1A型糖基化病",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "180",
+        "report_name": "囊性纤维化",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "181",
+        "report_name": "D-双功能蛋白缺乏",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "182",
+        "report_name": "二氢嘧啶脱氢酶缺乏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "183",
+        "report_name": "二氢硫辛酰胺脱氢酶缺乏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "184",
+        "report_name": "凝血因子XI缺陷症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "185",
+        "report_name": "家族性自主神经功能异常",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "186",
+        "report_name": "B型家族性高胆固醇血症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "187",
+        "report_name": "家族性高胰岛素症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "188",
+        "report_name": "家族性地中海热",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "189",
+        "report_name": "范可尼贫血",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "190",
+        "report_name": "葡萄糖-6-磷酸脱氢酶缺乏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "191",
+        "report_name": "GRACILE综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "192",
+        "report_name": "高雪氏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "193",
+        "report_name": "肝糖原贮积症Ia型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "194",
+        "report_name": "肝糖原贮积症Ib型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "195",
+        "report_name": "遗传性果糖不能耐受症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "196",
+        "report_name": "肥厚型心肌病",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "197",
+        "report_name": "肢带型肌营养不良2D型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "198",
+        "report_name": "枫糖尿症1B型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "199",
+        "report_name": "中链酰基辅酶A脱氢酶缺乏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "200",
+        "report_name": "IV型粘脂贮积症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "201",
+        "report_name": "神经元蜡样质脂褐质沉积症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "202",
+        "report_name": "A型尼曼-匹克病",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "203",
+        "report_name": "Nijmegen断裂综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "205",
+        "report_name": "苯丙酮尿症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "206",
+        "report_name": "肢近端型点状软骨发育不良",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "207",
+        "report_name": "唾液酸沉积症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "208",
+        "report_name": "镰刀型细胞贫血症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "209",
+        "report_name": "TTR相关心脏淀粉样变性",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "210",
+        "report_name": "戴萨克斯症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "211",
+        "report_name": "肌张力障碍",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "212",
+        "report_name": "酪氨酸血症 I型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "214",
+        "report_name": "脑肝肾综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "223",
+        "report_name": "血色素沉着病",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "232",
+        "report_name": "色盲",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1530",
+        "report_name": "甲基丙二酸血症（cbIB型）",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1531",
+        "report_name": "极长链酰基辅酶A脱氢酶缺乏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1532",
+        "report_name": "戊二酸血症I型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1533",
+        "report_name": "枫糖尿病1A型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1534",
+        "report_name": "三功能蛋白质缺乏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1535",
+        "report_name": "全羧化酶合成酶缺乏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1536",
+        "report_name": "高胱氨酸尿症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1537",
+        "report_name": "生物素酶缺乏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1538",
+        "report_name": "粘多糖贮积症I型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1539",
+        "report_name": "3-甲基巴豆酰辅酶A羧化酶2缺乏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1540",
+        "report_name": "原发性肉碱缺乏症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1541",
+        "report_name": "精氨酰琥珀酸尿症",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1542",
+        "report_name": "瓜氨酸血症I型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1543",
+        "report_name": "粘多糖贮积症II型",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1570",
+        "report_name": "Alport 综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1571",
+        "report_name": "Pendred 综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1572",
+        "report_name": "Stickler 综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1573",
+        "report_name": "Usher 综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1574",
+        "report_name": "Waardenburg 综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1575",
+        "report_name": "伴X染色体非综合征型耳聋",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1576",
+        "report_name": "大前庭导水管综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1577",
+        "report_name": "常染色体显性遗传性非综合征型耳聋",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1578",
+        "report_name": "常染色体隐性遗传性非综合征型耳聋",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1579",
+        "report_name": "氨基糖苷类抗生素耳毒性聋（“一针致聋”）",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1580",
+        "report_name": "线粒体遗传性非综合征型耳聋",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1581",
+        "report_name": "过氧化物酶体生物合成障碍",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1582",
+        "report_name": "鳃耳肾谱系障碍",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1583",
+        "report_name": "Jervell-Lange-Nielsen 综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1584",
+        "report_name": "Mohr-Tranebjaerg 综合征",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "遗传性疾病",
+        "report_id": "1588",
+        "report_name": "早发型阿兹海默病",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/carrier"
+    },
+    {
+        "category": "营养代谢",
+        "report_id": "5",
+        "report_name": "乳糖代谢能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/metabolism",
+        "sample_result": "强/中/弱"
+    },
+    {
+        "category": "营养代谢",
+        "report_id": "22",
+        "report_name": "咖啡因代谢能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/metabolism",
+        "sample_result": "强/中/弱"
+    },
+    {
+        "category": "营养代谢",
+        "report_id": "225",
+        "report_name": "叶酸营养需求",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/metabolism",
+        "sample_result": "正常/稍高/高"
+    },
+    {
+        "category": "营养代谢",
+        "report_id": "247",
+        "report_name": "钙营养需求",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/metabolism",
+        "sample_result": "正常/稍高/高"
+    },
+    {
+        "category": "营养代谢",
+        "report_id": "249",
+        "report_name": "酒精代谢能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/metabolism",
+        "sample_result": "强/中/弱"
+    },
+    {
+        "category": "营养代谢",
+        "report_id": "250",
+        "report_name": "维生素E营养需求",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/metabolism",
+        "sample_result": "正常/稍高/高"
+    },
+    {
+        "category": "营养代谢",
+        "report_id": "251",
+        "report_name": "铁营养需求",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/metabolism",
+        "sample_result": "正常/稍高/高"
+    },
+    {
+        "category": "营养代谢",
+        "report_id": "253",
+        "report_name": "维生素B12营养需求",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/metabolism",
+        "sample_result": "正常/稍高/高"
+    },
+    {
+        "category": "营养代谢",
+        "report_id": "256",
+        "report_name": "维生素A营养需求",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/metabolism",
+        "sample_result": "正常/稍高/高"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1461",
+        "report_name": "硝酸甘油",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1462",
+        "report_name": "乙醇",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1463",
+        "report_name": "华法林-CYP2C9",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1464",
+        "report_name": "塞来昔布",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1465",
+        "report_name": "氯沙坦",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1469",
+        "report_name": "他莫昔芬",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1470",
+        "report_name": "阿米替林-CYP2D6",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1471",
+        "report_name": "他克莫司",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1472",
+        "report_name": "华法林-CYP4F2",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1474",
+        "report_name": "他汀类药物",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1477",
+        "report_name": "伊立替康",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1479",
+        "report_name": "美托洛尔",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1480",
+        "report_name": "第二代抗精神病药",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "药物指南",
+        "report_id": "1481",
+        "report_name": "聚乙二醇化干扰素联合利巴韦林",
+        "report_gender_category": "全部",
+        "report_endpoint": "health/drug",
+        "sample_result": "正常/增加/减少"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1486",
+        "report_name": "爆发力",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "弱/较弱/中等/较强/强"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1487",
+        "report_name": "耐力",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "弱/较弱/中等/较强/强"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1488",
+        "report_name": "运动后心率改善",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "小/较小/中等/较大/大"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1489",
+        "report_name": "最大摄氧量提升",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "小/较小/中等/较大/大"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1490",
+        "report_name": "运动积极性",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "低/较低/中等/较高/高"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1491",
+        "report_name": "肌肉耐劳度提升",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "小/较小/中等/较大/大"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1492",
+        "report_name": "运动时体温升高速度",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "慢/中等/快"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1493",
+        "report_name": "运动对体重的影响",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "小/较小/中等/较大/大"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1494",
+        "report_name": "饮食对体重的影响",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "小/较小/中等/较大/大"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1495",
+        "report_name": "总热量摄入倾向",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "低/较低/中等/较高/高"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1496",
+        "report_name": "碳水化合物摄入倾向",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "低/较低/中等/较高/高"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1497",
+        "report_name": "饱和脂肪敏感性",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "低/较低/中等/较高/高"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1498",
+        "report_name": "碳水化合物敏感性",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "低/较低/中等/较高/高"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1499",
+        "report_name": "咖啡因敏感性",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "低/中等/高"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1500",
+        "report_name": "膝盖前交叉韧带受伤风险",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "低/较低/中等/较高/高"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1501",
+        "report_name": "跟腱受伤风险",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "低/较低/中等/较高/高"
+    },
+    {
+        "category": "运动基因",
+        "report_id": "1502",
+        "report_name": "腰椎间盘受伤风险",
+        "report_gender_category": "全部",
+        "report_endpoint": "athletigen",
+        "sample_result": "低/较低/中等/较高/高"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1522",
+        "report_name": "抗晒黑反应能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1523",
+        "report_name": "抗氧化能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1524",
+        "report_name": "抗糖化能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1525",
+        "report_name": "抗雀斑能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1526",
+        "report_name": "皮肤保湿能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1527",
+        "report_name": "抵御粉刺能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1528",
+        "report_name": "皮肤抗衰老能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1529",
+        "report_name": "抵御妊娠纹能力",
+        "report_gender_category": "女",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1556",
+        "report_name": "抵御老年斑能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1565",
+        "report_name": "抵御日晒斑能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1566",
+        "report_name": "皮肤控油能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1567",
+        "report_name": "抵御酒糟鼻能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1568",
+        "report_name": "抵御脂肪团能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "皮肤特性",
+        "report_id": "1569",
+        "report_name": "抵御静脉曲张能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "skin",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "心理特质",
+        "report_id": "1557",
+        "report_name": "主观幸福感",
+        "report_gender_category": "全部",
+        "report_endpoint": "psychology",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "心理特质",
+        "report_id": "1558",
+        "report_name": "风险承担意愿",
+        "report_gender_category": "全部",
+        "report_endpoint": "psychology",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "心理特质",
+        "report_id": "1559",
+        "report_name": "情绪稳定性",
+        "report_gender_category": "全部",
+        "report_endpoint": "psychology",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "心理特质",
+        "report_id": "1560",
+        "report_name": "共情能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "psychology",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "心理特质",
+        "report_id": "1561",
+        "report_name": "抗职业倦怠能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "psychology",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "心理特质",
+        "report_id": "1562",
+        "report_name": "延迟享受能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "psychology",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "心理特质",
+        "report_id": "1563",
+        "report_name": "抗焦虑能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "psychology",
+        "sample_result": "弱/中等/强"
+    },
+    {
+        "category": "心理特质",
+        "report_id": "1564",
+        "report_name": "执行能力",
+        "report_gender_category": "全部",
+        "report_endpoint": "psychology",
+        "sample_result": "弱/中等/强"
+    }
+]
