@@ -6,7 +6,7 @@ MCP server for WeGene Assistant, using LLM to analyze a user's WeGene genetic te
 
 ### Resources
 
-Once an user is authorized, all the reports under his/her account will be exposed as a resource:
+Once a user is authorized, all the reports under his/her account will be exposed as a resource:
 - Custom wegene:// URI scheme for accessing each individual report
 - A report resource has a name, description and application/json mimetype
 
@@ -22,9 +22,10 @@ The server implements one tool:
   - A list of report names, descriptions, endpoints, etc. will be returned
 - **wegene-get-report:** Read the results of a single report under a profile
   - Returns the result JSON specified in [WeGene's Open API platform](https://api.wegene.com)
-  - Arguement report_endpoint: The report's endpoint to be retrieved from
-  - Arguement report_id: The report's id to be retrieved
-  - Arguement profile_id: The profile id to retrieve report from
+  - Arguements 
+    - report_endpoint: The report's endpoint to be retrieved from
+    - report_id: The report's id to be retrieved
+    - profile_id: The profile id to retrieve report from
 
 ## Configuration
 

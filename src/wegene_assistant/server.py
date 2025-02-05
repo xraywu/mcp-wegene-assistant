@@ -197,7 +197,7 @@ async def handle_call_tool(
     wegene-get-report-info: Get all the report information and metadata, including report ID, cegtagory, name, etc.
     wegene-get-report: Get the genetic testing report for a specific phenotype from a profile. Result return in JSON format.
         Example result format:
-        '''json
+        ```json
             {
                 "score" : 60, # 0-100, relative score among the population for athletigen, skin, psychology, metabolism
                 "genotypes" : [ # The list of the user's SNPs related to this phenotype report
@@ -219,7 +219,7 @@ async def handle_call_tool(
                 "risk": 0.31 # The overall result for health risk, the relative risk comparing to the average population
                 "caseid" : "1522"  # The report ID
             }
-        '''
+        ```
     """
     
     if name == "wegene-oauth":
