@@ -14,13 +14,13 @@ Once an user is authorized, all the reports under his/her account will be expose
 ### Tools
 
 The server implements one tool:
-- wegene-oauth: Start a WeGene Open API oAuth process in the browser
+- **wegene-oauth:** Start a WeGene Open API oAuth process in the browser
   - The user should complete the authorization in 120 seconds so LLM will be able to further access the reports.
-- wegene-get-profiles: Read the profile list under a user's WeGene account
+- **wegene-get-profiles:** Read the profile list under a user's WeGene account
   - Profiles' name and id will be returned for LLM to use.
-- wegene-get-report-info: Return the report meta info so LLM will know what reports are available.
+- **wegene-get-report-info:** Return the report meta info so LLM will know what reports are available.
   - A list of report names, descriptions, endpoints, etc. will be returned
-- wegene-get-report: Read the results of a single report under a profile
+- **wegene-get-report:** Read the results of a single report under a profile
   - Returns the result JSON specified in [WeGene's Open API platform](https://api.wegene.com)
   - Arguement report_endpoint: The report's endpoint to be retrieved from
   - Arguement report_id: The report's id to be retrieved
@@ -38,7 +38,7 @@ The server implements one tool:
 #### Prepare MCP Server
 
 1. Clone this project
-2. Run `uv sync --dev --all-extras` under the pojrect root folder
+2. Run `uv sync --dev --all-extras` under the project's root folder
 
 #### Claude Desktop Configuration
 
@@ -47,7 +47,7 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
 Add below contents in the configuration file:
 
-'''json
+```
 {
   "mcpServers": {
     "wegene-assistant": {
@@ -61,4 +61,4 @@ Add below contents in the configuration file:
     }
   }
 }
-'''
+```
