@@ -6,106 +6,59 @@ MCP server for WeGene Assistant, using LLM to analyze a user's WeGene genetic te
 
 ### Resources
 
-The server implements a simple note storage system with:
-- Custom note:// URI scheme for accessing individual notes
-- Each note resource has a name, description and text/plain mimetype
+Once an user is authorized, all the reports under his/her account will be exposed as a resource:
+- Custom wegene:// URI scheme for accessing each individual report
+- A report resource has a name, description and application/json mimetype
 
-### Prompts
-
-The server provides a single prompt:
-- summarize-notes: Creates summaries of all stored notes
-  - Optional "style" argument to control detail level (brief/detailed)
-  - Generates prompt combining all current notes with style preference
 
 ### Tools
 
 The server implements one tool:
-- add-note: Adds a new note to the server
-  - Takes "name" and "content" as required string arguments
-  - Updates server state and notifies clients of resource changes
+- wegene-oauth: Start a WeGene Open API oAuth process in the browser
+  - The user should complete the authorization in 120 seconds so LLM will be able to further access the reports.
+- wegene-get-profiles: Read the profile list under a user's WeGene account
+  - Profiles' name and id will be returned for LLM to use.
+- wegene-get-report-info: Return the report meta info so LLM will know what reports are available.
+  - A list of report names, descriptions, endpoints, etc. will be returned
+- wegene-get-report: Read the results of a single report under a profile
+  - Returns the result JSON specified in [WeGene's Open API platform](https://api.wegene.com)
+  - Arguement report_endpoint: The report's endpoint to be retrieved from
+  - Arguement report_id: The report's id to be retrieved
+  - Arguement profile_id: The profile id to retrieve report from
 
 ## Configuration
 
-[TODO: Add configuration details specific to your implementation]
+- You will need WeGene Open API key/secret to use this project.
+- Copy `.env.example` as `.env` and update the key and secret in the file.
 
 ## Quickstart
 
 ### Install
 
-#### Claude Desktop
+#### Prepare MCP Server
+
+1. Clone this project
+2. Run `uv sync --dev --all-extras` under the pojrect root folder
+
+#### Claude Desktop Configuration
 
 On MacOS: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
 On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
 
-<details>
-  <summary>Development/Unpublished Servers Configuration</summary>
-  ```
+Add below contents in the configuration file:
+
+'''json
+{
   "mcpServers": {
     "wegene-assistant": {
       "command": "uv",
       "args": [
         "--directory",
-        "/Users/xraywu/Workspace/wegene-assistant",
+        "/path/to/wegene-assistant",
         "run",
         "wegene-assistant"
       ]
     }
   }
-  ```
-</details>
-
-<details>
-  <summary>Published Servers Configuration</summary>
-  ```
-  "mcpServers": {
-    "wegene-assistant": {
-      "command": "uvx",
-      "args": [
-        "wegene-assistant"
-      ]
-    }
-  }
-  ```
-</details>
-
-## Development
-
-### Building and Publishing
-
-To prepare the package for distribution:
-
-1. Sync dependencies and update lockfile:
-```bash
-uv sync
-```
-
-2. Build package distributions:
-```bash
-uv build
-```
-
-This will create source and wheel distributions in the `dist/` directory.
-
-3. Publish to PyPI:
-```bash
-uv publish
-```
-
-Note: You'll need to set PyPI credentials via environment variables or command flags:
-- Token: `--token` or `UV_PUBLISH_TOKEN`
-- Or username/password: `--username`/`UV_PUBLISH_USERNAME` and `--password`/`UV_PUBLISH_PASSWORD`
-
-### Debugging
-
-Since MCP servers run over stdio, debugging can be challenging. For the best debugging
-experience, we strongly recommend using the [MCP Inspector](https://github.com/modelcontextprotocol/inspector).
-
-
-You can launch the MCP Inspector via [`npm`](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) with this command:
-
-```bash
-npx @modelcontextprotocol/inspector uv --directory /Users/xraywu/Workspace/wegene-assistant run wegene-assistant
-```
-
-
-Upon launching, the Inspector will display a URL that you can access in your browser to begin debugging.
+}
+'''
