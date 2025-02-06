@@ -1,5 +1,7 @@
 # wegene-assistant MCP server
 
+[![smithery badge](https://smithery.ai/badge/@xraywu/mcp-wegene-assistant)](https://smithery.ai/server/@xraywu/mcp-wegene-assistant)
+
 MCP server for WeGene Assistant, using LLM to analyze a user's WeGene genetic testing report.
 
 ## Components
@@ -35,6 +37,14 @@ The server implements one tool:
 ## Quickstart
 
 ### Install
+
+#### Installing via Smithery
+
+To install WeGene Assistant for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@xraywu/mcp-wegene-assistant):
+
+```bash
+npx -y @smithery/cli install @xraywu/mcp-wegene-assistant --client claude
+```
 
 #### Prepare MCP Server
 
