@@ -32,5 +32,8 @@ COPY --from=uv --chown=app:app /app/.venv /app/.venv
 # Place executables in the environment at the front of the path
 ENV PATH="/app/.venv/bin:$PATH"
 
+# when running the container, add -p 8787:8787 to expose the oAuth callback link
+EXPOSE 8787
+
 # when running the container, add --db-path and a bind mount to the host's db file
 ENTRYPOINT ["uv", "run", "wegene-assistant"]

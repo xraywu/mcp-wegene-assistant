@@ -46,12 +46,14 @@ To install WeGene Assistant for Claude Desktop automatically via [Smithery](http
 npx -y @smithery/cli install @xraywu/mcp-wegene-assistant --client claude
 ```
 
-#### Prepare MCP Server
+#### Insall Locally
+
+##### Prepare MCP Server
 
 1. Clone this project
 2. Run `uv sync --dev --all-extras` under the project's root folder
 
-#### Claude Desktop Configuration
+##### Claude Desktop Configuration
 
 - On MacOS: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
 - On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
